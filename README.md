@@ -4,6 +4,13 @@
    <img align="center" height=310px src="https://github.com/yousefosama654/Arabic-Font-Recognition/assets/93356614/3ba507e2-5670-4a8e-8735-62d502d99144" alt="logo">
 </div>
 
+This project focuses on implementing classical machine-learning approaches for Arabic font recognition. The aim is to develop a classification model capable of identifying various types of Arabic fonts. The model distinguishes between four specific fonts: Scheherazade New, Marhey, Lemonada, and IBM Plex Sans Arabic.
+
+## Fonts Included:
+- **Scheherazade New**
+- **Marhey**
+- **Lemonada**
+- **IBM Plex Sans Arabic**
 
 <h2>💻 Built with</h2>
 
