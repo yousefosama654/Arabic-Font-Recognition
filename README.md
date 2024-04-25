@@ -1,4 +1,4 @@
-<h1 align='center'>Arabic font Recognition</h1>
+<h1 align='center'>Arabic Font Recognition</h1>
 
 <div align="center">
    <img align="center" height=310px src="https://github.com/yousefosama654/Arabic-Font-Recognition/assets/93356614/3ba507e2-5670-4a8e-8735-62d502d99144" alt="logo">
