@@ -5,6 +5,10 @@
 </div>
 
 This project focuses on implementing classical machine-learning approaches for Arabic font recognition. The aim is to develop a classification model capable of identifying various types of Arabic fonts. The model distinguishes between four specific fonts: Scheherazade New, Marhey, Lemonada, and IBM Plex Sans Arabic.
+# pipeline
+<div align="center">
+   <img align="center" height=310px src="./images/pipeline.png" alt="logo">
+</div>
 
 ## 🖋️ Fonts Included:
 - **Scheherazade New**
