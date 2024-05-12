@@ -12,6 +12,17 @@ This project focuses on implementing classical machine-learning approaches for A
 - **Lemonada**
 - **IBM Plex Sans Arabic**
 
+
+# How to run
+- to predict the font of an image on the server go to server_test.py change the varibale "image_path " to the path of the image then in the terminal run the following:
+
+ ```bash
+py  server_test.py
+```
+- to predict the font of an image locally go to predict.py then call the function make_prediction(img) 
+
+
+
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
